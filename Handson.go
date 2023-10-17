@@ -3,7 +3,7 @@ package handsongo
 import "fmt"
 
 func SayHello() {
-	fmt.Println("HELLO WORLD")
+	fmt.Println("HELLO WORLD!!!")
 }
 
 func CalculateVolumeCube(sisi float64) float64 {
